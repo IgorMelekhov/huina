@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'miro.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'socket',
+        'NAME': 'sockett',
         'USER': 'root',
         'PASSWORD': 'root',
         'HOST':'127.0.0.1',
